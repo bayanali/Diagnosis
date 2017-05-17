@@ -1,0 +1,769 @@
+# depslib dependency file v1.0
+1451382999 source:c:\users\hp\desktop\project\bodyparts.cpp
+	"BodyParts.h"
+	<iostream>
+	<string.h>
+
+1451391661 c:\users\hp\desktop\project\bodyparts.h
+	<iostream>
+
+1451398340 source:c:\users\hp\desktop\project\symptoms.cpp
+	"Symptoms.h"
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+
+1451392960 c:\users\hp\desktop\project\symptoms.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+
+1451475889 source:c:\users\hp\desktop\project\disease.cpp
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451476244 c:\users\hp\desktop\project\disease.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451480501 source:c:\users\hp\desktop\project\main.cpp
+	<iostream>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Disease.h"
+	"Medicine.h"
+	"Person.h"
+	"Doctor.h"
+
+1451476572 c:\users\hp\desktop\project\medicine.h
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451477242 source:c:\users\hp\desktop\project\medicine.cpp
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451480629 source:c:\users\hp\desktop\project\doctor.cpp
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451480354 c:\users\hp\desktop\project\doctor.h
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Person.h"
+
+1451477724 c:\users\hp\desktop\project\person.h
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451477780 source:c:\users\hp\desktop\project\person.cpp
+	"Person.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451382999 source:c:\users\bayan\desktop\project\bodyparts.cpp
+	"BodyParts.h"
+	<iostream>
+	<string.h>
+
+1451680000 c:\users\bayan\desktop\project\bodyparts.h
+	<iostream>
+
+1451657941 source:c:\users\bayan\desktop\project\disease.cpp
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451605766 c:\users\bayan\desktop\project\disease.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451680000 c:\users\bayan\desktop\project\symptoms.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+
+1451659709 source:c:\users\bayan\desktop\project\doctor.cpp
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451677180 c:\users\bayan\desktop\project\doctor.h
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Person.h"
+
+1451680000 c:\users\bayan\desktop\project\medicine.h
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451592664 c:\users\bayan\desktop\project\person.h
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451654770 source:c:\users\bayan\desktop\project\medicine.cpp
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451592970 source:c:\users\bayan\desktop\project\person.cpp
+	"Person.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451678546 source:c:\users\bayan\desktop\project\main.cpp
+	<iostream>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Disease.h"
+	"Medicine.h"
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Hospital .h"
+
+1451652916 source:c:\users\bayan\desktop\project\symptoms.cpp
+	"Symptoms.h"
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+
+1451678652 c:\users\bayan\desktop\project\patient.h
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Person.h"
+
+1451655176 source:c:\users\bayan\desktop\project\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451678546 source:c:\users\bayan\desktop\project\hospital .cpp
+	"Hospital .h"
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451680484 c:\users\bayan\desktop\project\hospital .h
+	"Hospital .h"
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451382999 source:c:\users\marwas\downloads\project (1)\project\bodyparts.cpp
+	"BodyParts.h"
+	<iostream>
+	<string.h>
+
+1451680000 c:\users\marwas\downloads\project (1)\project\bodyparts.h
+	<iostream>
+
+1451657941 source:c:\users\marwas\downloads\project (1)\project\disease.cpp
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451605766 c:\users\marwas\downloads\project (1)\project\disease.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451680000 c:\users\marwas\downloads\project (1)\project\symptoms.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+
+1451659709 source:c:\users\marwas\downloads\project (1)\project\doctor.cpp
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451677180 c:\users\marwas\downloads\project (1)\project\doctor.h
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Person.h"
+
+1451680000 c:\users\marwas\downloads\project (1)\project\medicine.h
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451592664 c:\users\marwas\downloads\project (1)\project\person.h
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451680484 source:c:\users\marwas\downloads\project (1)\project\hospital .cpp
+	"Hospital .h"
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451680484 c:\users\marwas\downloads\project (1)\project\hospital .h
+	"Hospital .h"
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451678652 c:\users\marwas\downloads\project (1)\project\patient.h
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Person.h"
+
+1451683867 source:c:\users\marwas\downloads\project (1)\project\main.cpp
+	<iostream>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Disease.h"
+	"Medicine.h"
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Hospital .h"
+
+1451654770 source:c:\users\marwas\downloads\project (1)\project\medicine.cpp
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451655176 source:c:\users\marwas\downloads\project (1)\project\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451592970 source:c:\users\marwas\downloads\project (1)\project\person.cpp
+	"Person.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451652916 source:c:\users\marwas\downloads\project (1)\project\symptoms.cpp
+	"Symptoms.h"
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+
+1451382999 source:c:\users\bayan\desktop\project (1)\project\bodyparts.cpp
+	"BodyParts.h"
+	<iostream>
+	<string.h>
+
+1451680000 c:\users\bayan\desktop\project (1)\project\bodyparts.h
+	<iostream>
+
+1451657941 source:c:\users\bayan\desktop\project (1)\project\disease.cpp
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451605766 c:\users\bayan\desktop\project (1)\project\disease.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451680000 c:\users\bayan\desktop\project (1)\project\symptoms.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+
+1451659709 source:c:\users\bayan\desktop\project (1)\project\doctor.cpp
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451677180 c:\users\bayan\desktop\project (1)\project\doctor.h
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Person.h"
+
+1451680000 c:\users\bayan\desktop\project (1)\project\medicine.h
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451592664 c:\users\bayan\desktop\project (1)\project\person.h
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451739963 source:c:\users\bayan\desktop\project (1)\project\hospital .cpp
+	"Hospital .h"
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451739963 c:\users\bayan\desktop\project (1)\project\hospital .h
+	"Hospital .h"
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451678652 c:\users\bayan\desktop\project (1)\project\patient.h
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Person.h"
+
+1451654770 source:c:\users\bayan\desktop\project (1)\project\medicine.cpp
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451740002 source:c:\users\bayan\desktop\project (1)\project\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451592970 source:c:\users\bayan\desktop\project (1)\project\person.cpp
+	"Person.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451652916 source:c:\users\bayan\desktop\project (1)\project\symptoms.cpp
+	"Symptoms.h"
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+
+1451683963 source:c:\users\bayan\desktop\project (1)\project\main.cpp
+	<iostream>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Disease.h"
+	"Medicine.h"
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Hospital .h"
+
+1451382999 source:c:\users\bayan\documents\mega\coding\programming_2\project\bodyparts.cpp
+	"BodyParts.h"
+	<iostream>
+	<string.h>
+
+1451680000 c:\users\bayan\documents\mega\coding\programming_2\project\bodyparts.h
+	<iostream>
+
+1451657941 source:c:\users\bayan\documents\mega\coding\programming_2\project\disease.cpp
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451605766 c:\users\bayan\documents\mega\coding\programming_2\project\disease.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451680000 c:\users\bayan\documents\mega\coding\programming_2\project\symptoms.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+
+1451659709 source:c:\users\bayan\documents\mega\coding\programming_2\project\doctor.cpp
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451677180 c:\users\bayan\documents\mega\coding\programming_2\project\doctor.h
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Person.h"
+
+1451680000 c:\users\bayan\documents\mega\coding\programming_2\project\medicine.h
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451592664 c:\users\bayan\documents\mega\coding\programming_2\project\person.h
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451739963 source:c:\users\bayan\documents\mega\coding\programming_2\project\hospital .cpp
+	"Hospital .h"
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451739963 c:\users\bayan\documents\mega\coding\programming_2\project\hospital .h
+	"Hospital .h"
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451678652 c:\users\bayan\documents\mega\coding\programming_2\project\patient.h
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Person.h"
+
+1451683963 source:c:\users\bayan\documents\mega\coding\programming_2\project\main.cpp
+	<iostream>
+	"BodyParts.h"
+	"Symptoms.h"
+	"Disease.h"
+	"Medicine.h"
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Hospital .h"
+
+1451654770 source:c:\users\bayan\documents\mega\coding\programming_2\project\medicine.cpp
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451740002 source:c:\users\bayan\documents\mega\coding\programming_2\project\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451592970 source:c:\users\bayan\documents\mega\coding\programming_2\project\person.cpp
+	"Person.h"
+	"Medicine.h"
+	"Disease.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+	"Symptoms.h"
+
+1451652916 source:c:\users\bayan\documents\mega\coding\programming_2\project\symptoms.cpp
+	"Symptoms.h"
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<algorithm>
+	"BodyParts.h"
+
